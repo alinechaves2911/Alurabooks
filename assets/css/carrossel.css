@@ -70,3 +70,14 @@
     font-weight: 700;
     text-decoration: none;
 }
+.estrelas::before{
+    content: url("../img/Estrelinhas.svg");
+    flex-wrap: wrap;
+    
+}
+.autores__titulo{
+    padding-top: 0.50em;
+}
+.autores{
+    font-size: 18px;
+}
