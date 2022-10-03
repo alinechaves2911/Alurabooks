@@ -7,5 +7,6 @@ o Site é responsivo, e foi utilizado o conceito mobile first.
 * CSS
 * SwiperJS
 
+[🔗 Clique aqui para acessar.](https://alinechaves2911.github.io/Alurabooks/)
 ## Imagem do site!
-<img src="Alurabooks.png" />
+![preview](AluraBooks.png)
